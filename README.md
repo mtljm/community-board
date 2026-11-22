@@ -2,6 +2,12 @@
 
 디시인사이드의 목록 중심 게시판 구조를 참고한 독립 커뮤니티 디자인 시안입니다. 상표·로고·콘텐츠를 복제하지 않았습니다.
 
+디자인 시안: https://mtljm.github.io/community-board/
+
+## GitHub Pages
+
+공개 저장소의 `main` 브랜치 루트(`/`)에서 배포합니다. `index.html`, `style.css`, `app.js` 수정 후 main에 push하면 페이지가 다시 배포됩니다. 별도 유료 서버나 API를 사용하지 않습니다.
+
 ## 실행
 
 Node.js 24에서 `npm start` 후 http://127.0.0.1:8808 접속. 외부 패키지 설치가 필요 없습니다.
